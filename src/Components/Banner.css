@@ -1,0 +1,17 @@
+.banner-content{
+    padding-left: 3rem;
+    padding-top: 330px;
+    width: 45rem;
+}
+
+.banner-content h1{
+    color: rgb(176, 13, 13);
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.banner-content h2{
+    font-size: 18px;
+    padding-top: 1rem;
+}
+
